@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PeixianZhang
-- 👀 I’m interested in meachine learning.
-- 🌱 I’m currently a student in KCL.
+- 👀 I’m interested in data science and meachine learning.
+- 🌱 I’m a master student in KCL.
 
 <!---
 PeixianZhang/PeixianZhang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
